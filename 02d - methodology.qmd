@@ -1,0 +1,62 @@
+# Assessment Methodology
+
+## Executive Level Assessment
+
+The executive assessment evaluates strategic data management capabilities through structured interviews with leadership:
+
+**Format**: 10-12 targeted questions covering:
+
+- Strategic alignment of data management
+- Resource allocation for data initiatives
+- Compliance risk management
+- Data-driven decision making
+
+**Output**: Strategic maturity dashboard with executive recommendations
+
+**Example Questions**:
+
+1. How does your data strategy align with organizational business objectives?
+2. What resources are allocated to data management across the organization?
+3. How do you manage compliance risks related to environmental data?
+4. How are data quality issues escalated and resolved at the executive level?
+
+## Business Unit Level Assessment
+
+The Business Unit assessment evaluates tactical data management capabilities through facilitated workshops:
+
+**Format**: 20-25 assessment criteria covering:
+
+- Process standardization
+- Cross-functional data workflows
+- Quality management practices
+- Resource utilization
+
+**Output**: Functional maturity heatmap with prioritized improvement opportunities
+
+**Example Assessment Areas**:
+
+1. Standardization of field data collection processes
+2. Integration between environmental monitoring and reporting
+3. Quality control procedures for scientific data
+4. Cross-project data sharing practices
+
+## Team Level Assessment
+
+The Team assessment evaluates operational data management practices through self-assessment:
+
+**Format**: 30-40 detailed criteria covering:
+
+- Day-to-day data practices
+- Technical skills and tools utilization
+- Procedural adherence
+- Problem-solving approaches
+
+**Output**: Detailed capability assessment with specific action items
+
+**Example Assessment Areas**:
+
+1. Field data collection techniques and validation
+2. Data cleaning and preparation methods
+3. Metadata creation and management
+4. Use of quality assurance tools and techniques
+

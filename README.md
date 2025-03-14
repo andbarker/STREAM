@@ -1,7 +1,13 @@
 # STREAM
 The Strategic Technology Readiness for Environmental Assessment and Management Framework (STREAM)
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+Written using quarto, install using either:
+
+*  https://quarto.org/docs/get-started/
+* `pip install quarto-cli1`
+
+
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 

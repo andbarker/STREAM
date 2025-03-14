@@ -1,0 +1,70 @@
+# STREAM Structure
+
+## Core Framework Dimensions
+
+The framework is organized into seven core dimensions that address the comprehensive data management needs of environmental consultancies:
+
+1. **Data Strategy & Governance**
+
+   - Strategic alignment with business objectives
+   - Data ownership and accountability
+   - Policy development and implementation
+   - Regulatory compliance management
+
+2. **Field Data Collection & Quality**
+
+   - Field data collection methods and tools
+   - Data validation and verification
+   - Chain of custody management
+   - Quality assurance processes
+
+3. **Scientific Data Integrity**
+
+   - Scientific method documentation
+   - Data lineage and provenance
+   - Metadata management
+   - FAIR principles implementation
+
+4. **Environmental Compliance Reporting**
+
+   - Regulatory reporting workflows
+   - Audit trail management
+   - Compliance verification
+   - Stakeholder reporting
+
+5. **Data Architecture & Integration**
+
+   - Data models and structures
+   - System integration
+   - Data exchange standards
+   - Technology infrastructure
+
+6. **Project Data Lifecycle Management**
+
+   - Project data planning
+   - Data handoff procedures
+   - Archive and retrieval processes
+   - Cross-project data reuse
+
+7. **Data Security & Privacy**
+
+   - Access control management
+   - Data classification and protection
+   - Privacy compliance
+   - Incident response planning
+
+## Organizational Assessment Tiers
+
+The framework enables assessment across three organizational tiers:
+
+- **Executive/Board Level**: Strategic direction, resource allocation, risk management
+- **Business Unit/Work Group Level**: Process standardization, quality management, cross-functional coordination
+- **Team Level**: Operational practices, technical skills, day-to-day data management
+
+## Framework Adaptations by Organization Size
+
+The framework scales through simplified implementations for different organization sizes:
+
+- **Small Firms (<20 employees)**: Focus on essential capabilities with lightweight governance
+- **Mid-Sized Firms (20-50 employees)**: Standard implementation with phased approach
+- **Larger Firms (50-100 employees)**: Comprehensive implementation across all dimensions

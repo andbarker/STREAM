@@ -1,0 +1,763 @@
+# Appendix A: Assessment Questionnaires {#sec-appa .unnumbered}
+
+## Executive Assessment Questionnaire {#sec-appa-exec}
+
+### Instructions
+This questionnaire is designed for completion by executive leadership (CEO, Managing Director, Practice Leaders). Please answer each question based on your organization's current practices and capabilities.
+
+### Data Strategy & Governance
+1. To what extent does your organization have a documented data strategy that aligns with business objectives?
+
+   <select class="form-select">
+     <option value="" selected disabled>Please select...</option>
+     <option value="1">No formal strategy exists</option>
+     <option value="2">Basic strategy exists but is not documented</option>
+     <option value="3">Documented strategy exists but is not widely communicated</option>
+     <option value="4">Well-documented strategy aligned with business objectives and communicated across the organization</option>
+     <option value="5">Comprehensive strategy that drives decision-making and resource allocation</option>
+   </select>
+
+2. How are data management responsibilities assigned within your organization?
+
+   <select class="form-select">
+     <option value="" selected disabled>Please select...</option>
+     <option value="1">No formal assignment of responsibilities</option>
+     <option value="2">Some informal roles exist but are not documented</option>
+     <option value="3">Key roles are defined but not consistently implemented</option>
+     <option value="4">Formal roles and responsibilities are documented and implemented</option>
+     <option value="5">Comprehensive governance structure with clear accountability at all levels</option>
+   </select>
+
+
+### Resource Allocation
+3. What resources are specifically allocated to data management activities?
+
+   <select class="form-select">
+     <option value="" selected disabled>Please select...</option>
+     <option value="1">No specific resources allocated</option>
+     <option value="2">Limited ad hoc resources as needed</option>
+     <option value="3">Part-time resources assigned to data management</option>
+     <option value="4">Dedicated resources for core data management functions</option>
+     <option value="5">Comprehensive resource allocation across all data management dimensions</option>
+   </select>
+
+4. How does your organization invest in data management technology and tools?
+
+   <select class="form-select">
+     <option value="" selected disabled>Please select...</option>
+     <option value="1">No specific investment in data management technology</option>
+     <option value="2">Basic tools are available but no strategic investment</option>
+     <option value="3">Planned investment in core data management technologies</option>
+     <option value="4">Strategic investment in integrated data management technologies</option>
+     <option value="5">Continuous investment in advanced data capabilities and innovation</option>
+   </select>
+
+
+### Risk Management
+5. How does your organization identify and manage data-related risks?
+
+   <select class="form-select">
+     <option value="" selected disabled>Please select...</option>
+     <option value="1">No formal risk management for data</option>
+     <option value="2">Reactive approach to data risks as they arise</option>
+     <option value="3">Basic risk assessment for critical data assets</option>
+     <option value="4">Formal data risk management process integrated with overall risk management</option>
+     <option value="5">Comprehensive data risk framework with preventive and detective controls</option>
+   </select>
+
+
+6. How does your organization ensure compliance with relevant environmental data regulations?
+
+   <select class="form-select">
+     <option value="" selected disabled>Please select...</option>
+     <option value="1">No formal compliance management approach</option>
+     <option value="2">Basic awareness of requirements with reactive compliance</option>
+     <option value="3">Documented compliance processes for key regulations</option>
+     <option value="4">Comprehensive compliance framework with regular assessments</option>
+     <option value="5">Proactive compliance management with continuous monitoring</option>
+   </select>
+
+
+### Data Value Creation
+7. How does your organization measure the value created from its data assets?
+
+   <select class="form-select">
+     <option value="" selected disabled>Please select...</option>
+     <option value="1">No measurement of data value</option>
+     <option value="2">Informal recognition of value in specific cases</option>
+     <option value="3">Basic qualitative assessment of data value</option>
+     <option value="4">Formal measurement of data value in key areas</option>
+     <option value="5">Comprehensive quantitative and qualitative measurement of data as a strategic asset</option>
+   </select>
+
+
+8. To what extent are data-driven insights used in strategic decision-making?
+
+   <select class="form-select">
+     <option value="" selected disabled>Please select...</option>
+     <option value="1">Minimal use of data in decision-making</option>
+     <option value="2">Occasional use of data for specific decisions</option>
+     <option value="3">Regular use of data for operational decisions</option>
+     <option value="4">Systematic use of data for both strategic and operational decisions</option>
+     <option value="5">Data-driven decision culture throughout the organization</option>
+   </select>
+
+
+### Data Quality Management
+9. How does executive leadership address data quality issues?
+
+   <select class="form-select">
+     <option value="" selected disabled>Please select...</option>
+     <option value="1">No executive involvement in data quality</option>
+     <option value="2">Reactive involvement when major issues arise</option>
+     <option value="3">Periodic review of quality metrics</option>
+     <option value="4">Regular review of quality with accountability for improvement</option>
+     <option value="5">Proactive executive sponsorship of quality initiatives with continuous oversight</option>
+   </select>
+
+
+10. How does your organization ensure the quality of data used in client deliverables and regulatory submissions?
+
+    <select class="form-select">
+      <option value="" selected disabled>Please select...</option>
+      <option value="1">No formal quality assurance process</option>
+      <option value="2">Basic review process for critical deliverables</option>
+      <option value="3">Standardized quality control for most deliverables</option>
+      <option value="4">Comprehensive quality assurance program across all deliverables</option>
+      <option value="5">Advanced quality management with predictive capabilities and continuous improvement</option>
+    </select>
+
+
+### Data Innovation
+11. How does your organization approach innovation in data management and utilization?
+
+    <select class="form-select">
+      <option value="" selected disabled>Please select...</option>
+      <option value="1">No formal approach to data innovation</option>
+      <option value="2">Occasional exploration of new data approaches</option>
+      <option value="3">Regular evaluation of new data technologies and methods</option>
+      <option value="4">Strategic investment in data innovation aligned with business objectives</option>
+      <option value="5">Culture of continuous data innovation with dedicated resources and executive sponsorship</option>
+    </select>
+
+
+12. How does your organization leverage data as a competitive advantage?
+
+    <select class="form-select">
+      <option value="" selected disabled>Please select...</option>
+      <option value="1">Data not viewed as a competitive factor</option>
+      <option value="2">Basic recognition of data's competitive potential</option>
+      <option value="3">Specific initiatives to create competitive advantage through data</option>
+      <option value="4">Systematic approach to developing data-based competitive advantages</option>
+      <option value="5">Data capabilities are a primary source of competitive differentiation</option>
+    </select>
+
+
+## Business Unit Assessment Worksheet {#sec-appa-businessunit}
+
+### Instructions
+This assessment is designed to be completed in a facilitated workshop with leaders and key staff from business units or work groups. Rate your current capabilities in each area from 1-5 using the maturity level definitions provided.
+
+### Field Data Collection & Quality
+1. Standardization of field data collection methods
+
+   <div class="mb-3">
+     <label for="bu-q1-rating">Current maturity level (1-5):</label>
+     <select class="form-select" id="bu-q1-rating">
+       <option value="" selected disabled>Select rating...</option>
+       <option value="1">1 - Initial/Ad Hoc</option>
+       <option value="2">2 - Developing</option>
+       <option value="3">3 - Defined</option>
+       <option value="4">4 - Managed</option>
+       <option value="5">5 - Optimizing</option>
+     </select>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q1-evidence">Evidence:</label>
+     <textarea class="form-control" id="bu-q1-evidence" rows="2"></textarea>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q1-improvement">Improvement opportunities:</label>
+     <textarea class="form-control" id="bu-q1-improvement" rows="2"></textarea>
+   </div>
+
+
+2. Use of digital tools for field data collection
+
+   <div class="mb-3">
+     <label for="bu-q2-rating">Current maturity level (1-5):</label>
+     <select class="form-select" id="bu-q2-rating">
+       <option value="" selected disabled>Select rating...</option>
+       <option value="1">1 - Initial/Ad Hoc</option>
+       <option value="2">2 - Developing</option>
+       <option value="3">3 - Defined</option>
+       <option value="4">4 - Managed</option>
+       <option value="5">5 - Optimizing</option>
+     </select>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q2-evidence">Evidence:</label>
+     <textarea class="form-control" id="bu-q2-evidence" rows="2"></textarea>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q2-improvement">Improvement opportunities:</label>
+     <textarea class="form-control" id="bu-q2-improvement" rows="2"></textarea>
+   </div>
+
+
+3. Data validation processes for field data
+
+   <div class="mb-3">
+     <label for="bu-q3-rating">Current maturity level (1-5):</label>
+     <select class="form-select" id="bu-q3-rating">
+       <option value="" selected disabled>Select rating...</option>
+       <option value="1">1 - Initial/Ad Hoc</option>
+       <option value="2">2 - Developing</option>
+       <option value="3">3 - Defined</option>
+       <option value="4">4 - Managed</option>
+       <option value="5">5 - Optimizing</option>
+     </select>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q3-evidence">Evidence:</label>
+     <textarea class="form-control" id="bu-q3-evidence" rows="2"></textarea>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q3-improvement">Improvement opportunities:</label>
+     <textarea class="form-control" id="bu-q3-improvement" rows="2"></textarea>
+   </div>
+
+
+4. Chain of custody documentation
+
+   <div class="mb-3">
+     <label for="bu-q4-rating">Current maturity level (1-5):</label>
+     <select class="form-select" id="bu-q4-rating">
+       <option value="" selected disabled>Select rating...</option>
+       <option value="1">1 - Initial/Ad Hoc</option>
+       <option value="2">2 - Developing</option>
+       <option value="3">3 - Defined</option>
+       <option value="4">4 - Managed</option>
+       <option value="5">5 - Optimizing</option>
+     </select>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q4-evidence">Evidence:</label>
+     <textarea class="form-control" id="bu-q4-evidence" rows="2"></textarea>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q4-improvement">Improvement opportunities:</label>
+     <textarea class="form-control" id="bu-q4-improvement" rows="2"></textarea>
+   </div>
+
+
+5. Field data quality control procedures
+
+   <div class="mb-3">
+     <label for="bu-q5-rating">Current maturity level (1-5):</label>
+     <select class="form-select" id="bu-q5-rating">
+       <option value="" selected disabled>Select rating...</option>
+       <option value="1">1 - Initial/Ad Hoc</option>
+       <option value="2">2 - Developing</option>
+       <option value="3">3 - Defined</option>
+       <option value="4">4 - Managed</option>
+       <option value="5">5 - Optimizing</option>
+     </select>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q5-evidence">Evidence:</label>
+     <textarea class="form-control" id="bu-q5-evidence" rows="2"></textarea>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q5-improvement">Improvement opportunities:</label>
+     <textarea class="form-control" id="bu-q5-improvement" rows="2"></textarea>
+   </div>
+
+
+### Scientific Data Integrity
+6. Implementation of scientific data standards
+
+   <div class="mb-3">
+     <label for="bu-q6-rating">Current maturity level (1-5):</label>
+     <select class="form-select" id="bu-q6-rating">
+       <option value="" selected disabled>Select rating...</option>
+       <option value="1">1 - Initial/Ad Hoc</option>
+       <option value="2">2 - Developing</option>
+       <option value="3">3 - Defined</option>
+       <option value="4">4 - Managed</option>
+       <option value="5">5 - Optimizing</option>
+     </select>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q6-evidence">Evidence:</label>
+     <textarea class="form-control" id="bu-q6-evidence" rows="2"></textarea>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q6-improvement">Improvement opportunities:</label>
+     <textarea class="form-control" id="bu-q6-improvement" rows="2"></textarea>
+   </div>
+
+
+7. Metadata management for scientific data
+
+   <div class="mb-3">
+     <label for="bu-q7-rating">Current maturity level (1-5):</label>
+     <select class="form-select" id="bu-q7-rating">
+       <option value="" selected disabled>Select rating...</option>
+       <option value="1">1 - Initial/Ad Hoc</option>
+       <option value="2">2 - Developing</option>
+       <option value="3">3 - Defined</option>
+       <option value="4">4 - Managed</option>
+       <option value="5">5 - Optimizing</option>
+     </select>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q7-evidence">Evidence:</label>
+     <textarea class="form-control" id="bu-q7-evidence" rows="2"></textarea>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q7-improvement">Improvement opportunities:</label>
+     <textarea class="form-control" id="bu-q7-improvement" rows="2"></textarea>
+   </div>
+
+
+8. Data lineage tracking
+
+   <div class="mb-3">
+     <label for="bu-q8-rating">Current maturity level (1-5):</label>
+     <select class="form-select" id="bu-q8-rating">
+       <option value="" selected disabled>Select rating...</option>
+       <option value="1">1 - Initial/Ad Hoc</option>
+       <option value="2">2 - Developing</option>
+       <option value="3">3 - Defined</option>
+       <option value="4">4 - Managed</option>
+       <option value="5">5 - Optimizing</option>
+     </select>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q8-evidence">Evidence:</label>
+     <textarea class="form-control" id="bu-q8-evidence" rows="2"></textarea>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q8-improvement">Improvement opportunities:</label>
+     <textarea class="form-control" id="bu-q8-improvement" rows="2"></textarea>
+   </div>
+
+
+9. Scientific method documentation
+
+   <div class="mb-3">
+     <label for="bu-q9-rating">Current maturity level (1-5):</label>
+     <select class="form-select" id="bu-q9-rating">
+       <option value="" selected disabled>Select rating...</option>
+       <option value="1">1 - Initial/Ad Hoc</option>
+       <option value="2">2 - Developing</option>
+       <option value="3">3 - Defined</option>
+       <option value="4">4 - Managed</option>
+       <option value="5">5 - Optimizing</option>
+     </select>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q9-evidence">Evidence:</label>
+     <textarea class="form-control" id="bu-q9-evidence" rows="2"></textarea>
+   </div>
+   <div class="mb-3">
+     <label for="bu-q9-improvement">Improvement opportunities:</label>
+     <textarea class="form-control" id="bu-q9-improvement" rows="2"></textarea>
+   </div>
+
+
+10. Quality assurance for analytical processes
+
+    <div class="mb-3">
+      <label for="bu-q10-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q10-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q10-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q10-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q10-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q10-improvement" rows="2"></textarea>
+    </div>
+
+
+### Environmental Compliance Reporting
+11. Regulatory reporting workflows
+
+    <div class="mb-3">
+      <label for="bu-q11-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q11-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q11-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q11-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q11-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q11-improvement" rows="2"></textarea>
+    </div>
+
+
+12. Compliance data validation processes
+
+    <div class="mb-3">
+      <label for="bu-q12-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q12-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q12-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q12-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q12-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q12-improvement" rows="2"></textarea>
+    </div>
+
+
+13. Audit trail management
+
+    <div class="mb-3">
+      <label for="bu-q13-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q13-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q13-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q13-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q13-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q13-improvement" rows="2"></textarea>
+    </div>
+
+
+14. Regulatory submission quality control
+
+    <div class="mb-3">
+      <label for="bu-q14-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q14-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q14-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q14-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q14-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q14-improvement" rows="2"></textarea>
+    </div>
+
+
+15. Compliance documentation management
+
+    <div class="mb-3">
+      <label for="bu-q15-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q15-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q15-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q15-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q15-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q15-improvement" rows="2"></textarea>
+    </div>
+
+
+### Project Data Lifecycle Management
+16. Project data planning processes
+
+    <div class="mb-3">
+      <label for="bu-q16-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q16-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q16-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q16-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q16-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q16-improvement" rows="2"></textarea>
+    </div>
+
+
+17. Data handoff procedures between project phases
+
+    <div class="mb-3">
+      <label for="bu-q17-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q17-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q17-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q17-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q17-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q17-improvement" rows="2"></textarea>
+    </div>
+
+
+18. Project data archiving and retrieval
+
+    <div class="mb-3">
+      <label for="bu-q18-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q18-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q18-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q18-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q18-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q18-improvement" rows="2"></textarea>
+    </div>
+
+
+19. Cross-project data reuse
+
+    <div class="mb-3">
+      <label for="bu-q19-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q19-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q19-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q19-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q19-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q19-improvement" rows="2"></textarea>
+    </div>
+
+
+20. Client data integration processes
+
+    <div class="mb-3">
+      <label for="bu-q20-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q20-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q20-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q20-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q20-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q20-improvement" rows="2"></textarea>
+    </div>
+
+
+### Cross-Functional Coordination
+21. Coordination between field teams and analysts
+
+    <div class="mb-3">
+      <label for="bu-q21-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q21-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q21-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q21-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q21-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q21-improvement" rows="2"></textarea>
+    </div>
+
+
+22. Coordination between technical teams and project management
+
+    <div class="mb-3">
+      <label for="bu-q22-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q22-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q22-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q22-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q22-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q22-improvement" rows="2"></textarea>
+    </div>
+
+
+23. Data sharing between business units
+
+    <div class="mb-3">
+      <label for="bu-q23-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q23-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q23-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q23-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q23-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q23-improvement" rows="2"></textarea>
+    </div>
+
+
+24. Integration between monitoring and reporting activities
+
+    <div class="mb-3">
+      <label for="bu-q24-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q24-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q24-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q24-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q24-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q24-improvement" rows="2"></textarea>
+    </div>
+
+
+25. Coordination with external partners and clients on data management
+
+    <div class="mb-3">
+      <label for="bu-q25-rating">Current maturity level (1-5):</label>
+      <select class="form-select" id="bu-q25-rating">
+        <option value="" selected disabled>Select rating...</option>
+        <option value="1">1 - Initial/Ad Hoc</option>
+        <option value="2">2 - Developing</option>
+        <option value="3">3 - Defined</option>
+        <option value="4">4 - Managed</option>
+        <option value="5">5 - Optimizing</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q25-evidence">Evidence:</label>
+      <textarea class="form-control" id="bu-q25-evidence" rows="2"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="bu-q25-improvement">Improvement opportunities:</label>
+      <textarea class="form-control" id="bu-q25-improvement" rows="2"></textarea>
+    </div>
+
+
+## Team Self-Assessment Tool {#sec-appa-team}
+
+### Instructions
+This self-assessment is designed for completion by individual teams or work groups. Rate your current practices in each area from 1-5 using the maturity level definitions provided, and identify specific examples or evidence.
+
+### Data Collection & Entry
+1. We use standardized templates for data collection
+
+   <div class="mb-3">
+     <label for="team-q1-rating">Rating (1-5):</label>
+     <select class="form-select" id="team-q1-rating">
+       <option value="" selected disabled>Select rating...</option>
+       <option value="1">1 - Initial/Ad Hoc</option>
+       <option value="2">2 - Developing</option>
+       <option value="3">3 - Defined</option>
+       <option value="4">4 - Managed</option>
+       <option value="5">5 - Optimizing</option>
+     </select>
+   </div>
+   <div class="mb-3">
+     <label for="team-q1-evidence">Examples/Evidence:</label>
+     <textarea class="form-control" id="team-q1-evidence" rows="2"></textarea>
+   </div>

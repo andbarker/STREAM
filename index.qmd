@@ -1,7 +1,8 @@
-![Framework Cover Image](stream-logo.svg)
+# Preface  {.unnumbered}
+
+![](stream-logo.svg)
 
 **Version 1.0 | March 2025**
-# Preface
 
 ---
 
@@ -40,45 +41,42 @@ The STREAM was developed through analysis of established data maturity framework
 
 ## How to Use This Webbook
 
-This webbook contains the complete STREAM framework, implementation guidance, and supporting materials. Navigate through the following sections to explore the framework:
+This webbook contains the complete AECDMF framework, implementation guidance, and supporting materials. Navigate through the following sections to explore the framework:
 
-1. [Framework Overview](framework-overview.md)
-2. [Assessment Methodology](assessment-methodology.md)
-3. [Maturity Dimensions and Levels](maturity-dimensions.md)
-4. [Implementation Roadmap](implementation-roadmap.md)
-5. [Industry-Specific Adaptations](industry-adaptations.md)
+1. [Executive Summary](executive-summary.md)
+2. [Framework Report](framework-report.md)
+3. [Assessment Questionnaires](assessment-questionnaires.md)
+4. [Implementation Templates](implementation-templates.md)
+5. [Regulatory Reference Guide](regulatory-reference.md)
 6. [Case Studies](case-studies.md)
-7. [Assessment Tools](assessment-tools.md)
-8. [Implementation Templates](implementation-templates.md)
-9. [Regulatory Reference](regulatory-reference.md)
+8. [Implementation Decision Tree](decision-tree.md)
+9. [Implementation Timeline](implementation-timeline.md)
+10. [Field Data Collection Template](field-data-template.md)
 
 ## Getting Started
 
-We recommend beginning with the [Framework Overview](framework-overview.md) to understand the STREAM structure and approach. Then proceed to the [Assessment Methodology](assessment-methodology.md) to conduct your initial maturity evaluation.
+We recommend beginning with the [Executive Summary](executive-summary.md) to understand the AECDMF approach and benefits. Then proceed to the [Framework Report](framework-report.md) for a comprehensive overview of the framework structure and methodology. The [Assessment Questionnaires](assessment-questionnaires.md) will help you conduct your initial maturity evaluation.
 
-
-:::{.callout-tip}
-## For organizations looking to quickly implement improvements:
+For organizations looking to quickly implement improvements:
 
 1. Complete the executive-level assessment to establish leadership alignment
 2. Identify 1-2 high-priority dimensions based on business impact
 3. Follow the implementation roadmap for your organization size
 4. Utilize the templates and tools provided to accelerate adoption
-:::
 
 ## About the Authors
 
-This framework was developed by an environmental data professional with decades of experience helping Australian firms handle their environmental data to deliver on decision making. The approach combines global best practices with practical insights from the Australian environmental sector.
+This framework was developed by leading data management and governance experts with decades of experience helping small to medium Australian AEC (Architecture, Engineering, and Construction) firms improve their data maturity. The approach combines global best practices with practical insights from the Australian environmental sector.
 
 ## Acknowledgments
 
-The development of this framework was motivated by a gap in the availability of tailored frameworks specifically designed to meet the unique needs of SME Environmental groups. Existing data maturity models, such as the EDM Council's DCAM, DAMA-DMBOK, the CMMI Data Management Maturity Model, and the FAIR Principles, while valuable, often prove too comprehensive or too technical for the specialised requirements of an environmental consultancy. These models, although well-established, tend to be overly broad and not sufficiently focused on the specific challenges faced by environmental SMEs. Our framework aims to address this by providing a more targeted approach for the distinct needs and operational contexts of environmental consultancies. I want to acknowledge the significant contributions the pioneering data frameworks have made to advancing data management practices across finance and other industries. Our work builds on the shoulders of these giants by offering a novel, specialised framework that is entirely our own, designed to complement and enhance the existing landscape of data management solutions.
+The development of this framework was informed by established data maturity models including EDM Council's DCAM, DAMA-DMBOK, CMMI Data Management Maturity Model, and the FAIR Principles for scientific data management. We acknowledge their valuable contributions to the field of data management.
 
 ## Contact and Support
 
-For questions, feedback, or implementation support, please contact:
+For questions, feedback, or ideas, please submit an issue:
 
-Website: https://andbarker.github.io/STREAM 
+Website: https://github.com/andbarker/STREAM/issues 
 
 ---
 

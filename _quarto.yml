@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs/
 
 book:
   title: "STREAM"
@@ -8,15 +9,25 @@ book:
   date: "13/03/2025"
   chapters:
     - index.qmd
-    - executive-summary.md
-    - framework-report.md
-    - part: "Appendicies"
+    - 01 executive-summary.md
+    - part: "Framework Report"
       chapters: 
-      - assessment-questionnaires.md
-      - implementation-templates.md
-      - regulatory-reference.md
-      - case-studies.md
-      - field-data-template.md
+      - 02a - introduction.qmd
+      - 02b - foundations.qmd
+      - 02c - structure.qmd
+      - 02d - methodology.qmd
+      - 02e - maturity.qmd
+      - 02f - roadmap.qmd
+      - 02g - decision-making.qmd
+      - 02h - adaptations.qmd
+      - 02i - metrics.qmd
+    - part: app 00 cover.qmd
+      chapters: 
+      - app A assessment-questionnaires.qmd
+      - app B implementation-templates.md
+      - app C regulatory-reference.md
+      - app D case-studies.md
+      - app E field-data-template.md
     - references.qmd
 
 bibliography: references.bib

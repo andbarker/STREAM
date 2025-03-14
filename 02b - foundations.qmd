@@ -1,0 +1,24 @@
+# Framework Foundations
+
+## Comparative Analysis of Established Frameworks
+
+The STREAM integrates strengths from established data maturity frameworks while addressing their limitations for environmental consulting applications:
+
+| **Framework** | **Core Components** | **Strengths for Environmental Consulting** | **Limitations** | **SME Applicability (1-5)** | **AU Regulatory Fit** |
+|---------------|---------------------|------------------------------------------|----------------|---------------------------|------------------------|
+| **EDM Council's DCAM** | Data governance, quality, architecture, lifecycle | Robust risk management for compliance-heavy work | Overly technical; requires dedicated roles | 2/5 (High complexity) | Moderate |
+| **DAMA-DMBOK** | 11 knowledge areas (governance, quality, architecture) | Holistic view of data ecosystems | Too broad for SMEs; lacks implementation guidance | 3/5 | Good |
+| **CMMI DMM** | 5 maturity levels; process-focused | Incremental progression suits resource-constrained SMEs | Weak on scientific data integrity | 4/5 | High |
+| **FAIR Principles** | Findable, Accessible, Interoperable, Reusable data | Directly addresses field/science data sharing needs | Not a full framework; no maturity levels | 4/5 | High |
+
+## Design Principles
+
+The STREAM is built on four core design principles:
+
+1. **Practical Scalability**: Implementation approaches that scale based on organizational size and resource availability
+
+2. **Industry Relevance**: Specific focus on environmental consulting data challenges including field collection, scientific integrity, and compliance reporting
+
+3. **Incremental Progression**: Clear maturity pathways that enable step-by-step improvement
+
+4. **Australian Context**: Alignment with Australian regulatory requirements and industry practices
