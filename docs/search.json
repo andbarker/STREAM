@@ -44,7 +44,7 @@
     "href": "index.html#how-to-use-this-webbook",
     "title": "STREAM",
     "section": "How to Use This Webbook",
-    "text": "How to Use This Webbook\nThis webbook contains the complete AECDMF framework, implementation guidance, and supporting materials. Navigate through the following sections to explore the framework:\n\nExecutive Summary\nFramework Report\nAssessment Questionnaires\nImplementation Templates\nRegulatory Reference Guide\nCase Studies\nImplementation Decision Tree\nImplementation Timeline\nField Data Collection Template",
+    "text": "How to Use This Webbook\nThis webbook contains the complete AECDMF framework, implementation guidance, and supporting materials. Navigate through the following sections to explore the framework:\n\nExecutive Summary\nFramework Report\nAssessment Questionnaires\nImplementation Templates\nRegulatory Reference Guide\nCase Studies\nField Data Collection Template",
     "crumbs": [
       "Preface"
     ]
@@ -84,7 +84,7 @@
     "href": "index.html#contact-and-support",
     "title": "STREAM",
     "section": "Contact and Support",
-    "text": "Contact and Support\nFor questions, feedback, or ideas, please submit an issue:\nWebsite: https://github.com/andbarker/STREAM/issues\n\n© 2025 Strategic Technology Readiness for Environmental Assessment and Management (STREAM)",
+    "text": "Contact and Support\nFor questions, feedback, or ideas, please submit an issue:\n\n\n© 2025 Strategic Technology Readiness for Environmental Assessment and Management (STREAM)",
     "crumbs": [
       "Preface"
     ]
@@ -162,424 +162,424 @@
   {
     "objectID": "02a - introduction.html",
     "href": "02a - introduction.html",
-    "title": "1  Introduction",
+    "title": "Framework Introduction",
     "section": "",
-    "text": "1.1 Purpose and Scope\nThe Strategic Technology Readiness for Environmental Assessment and Management Framework (STREAM) provides a structured approach for environmental consultancies to assess and improve their data management capabilities. This framework addresses the unique data challenges faced by the industry, such as field data collection, scientific data integrity, compliance reporting, and environmental monitoring.",
+    "text": "Purpose and Scope\nThe Strategic Technology Readiness for Environmental Assessment and Management Framework (STREAM) provides a structured approach for environmental consultancies to assess and improve their data management capabilities. This framework addresses the unique data challenges faced by the industry, such as field data collection, scientific data integrity, compliance reporting, and environmental monitoring.",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "Framework Introduction"
     ]
   },
   {
     "objectID": "02a - introduction.html#industry-context",
     "href": "02a - introduction.html#industry-context",
-    "title": "1  Introduction",
-    "section": "1.2 Industry Context",
-    "text": "1.2 Industry Context\nEnvironmental consultancies in Australia operate within a complex regulatory landscape and handle diverse data types including spatial, temporal, scientific, and compliance information. The framework acknowledges these complexities while providing practical guidance for organizations with limited resources.",
+    "title": "Framework Introduction",
+    "section": "Industry Context",
+    "text": "Industry Context\nEnvironmental consultancies in Australia operate within a complex regulatory landscape and handle diverse data types including spatial, temporal, scientific, and compliance information. The framework acknowledges these complexities while providing practical guidance for organizations with limited resources.",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "Framework Introduction"
     ]
   },
   {
     "objectID": "02a - introduction.html#benefits-of-data-maturity",
     "href": "02a - introduction.html#benefits-of-data-maturity",
-    "title": "1  Introduction",
-    "section": "1.3 Benefits of Data Maturity",
-    "text": "1.3 Benefits of Data Maturity\nImproved data maturity delivers tangible benefits to environmental consultancies:\n\nEnhanced data quality and reliability for scientific and regulatory purposes\nStreamlined reporting for compliance with Australian environmental regulations\nImproved efficiency in field data collection and processing\nBetter cross-project data integration and reuse\nReduced operational risk and enhanced decision-making\nCompetitive advantage through data-driven insights\n\n\n© 2025 Strategic Technology Readiness for Environmental Assessment and Management Framework (STREAM)",
+    "title": "Framework Introduction",
+    "section": "Benefits of Data Maturity",
+    "text": "Benefits of Data Maturity\nImproved data maturity delivers tangible benefits to environmental consultancies:\n\nEnhanced data quality and reliability for scientific and regulatory purposes\nStreamlined reporting for compliance with Australian environmental regulations\nImproved efficiency in field data collection and processing\nBetter cross-project data integration and reuse\nReduced operational risk and enhanced decision-making\nCompetitive advantage through data-driven insights\n\n\n© 2025 Strategic Technology Readiness for Environmental Assessment and Management Framework (STREAM)",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "Framework Introduction"
     ]
   },
   {
     "objectID": "02b - foundations.html",
     "href": "02b - foundations.html",
-    "title": "2  Framework Foundations",
+    "title": "1  Framework Foundations",
     "section": "",
-    "text": "2.1 Comparative Analysis of Established Frameworks\nThe STREAM integrates strengths from established data maturity frameworks while addressing their limitations for environmental consulting applications:",
+    "text": "1.1 Comparative Analysis of Established Frameworks\nThe STREAM integrates strengths from established data maturity frameworks while addressing their limitations for environmental consulting applications:",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Framework Foundations</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Framework Foundations</span>"
     ]
   },
   {
     "objectID": "02b - foundations.html#comparative-analysis-of-established-frameworks",
     "href": "02b - foundations.html#comparative-analysis-of-established-frameworks",
-    "title": "2  Framework Foundations",
+    "title": "1  Framework Foundations",
     "section": "",
     "text": "Framework\nCore Components\nStrengths for Environmental Consulting\nLimitations\nSME Applicability (1-5)\nAU Regulatory Fit\n\n\n\n\nEDM Council’s DCAM\nData governance, quality, architecture, lifecycle\nRobust risk management for compliance-heavy work\nOverly technical; requires dedicated roles\n2/5 (High complexity)\nModerate\n\n\nDAMA-DMBOK\n11 knowledge areas (governance, quality, architecture)\nHolistic view of data ecosystems\nToo broad for SMEs; lacks implementation guidance\n3/5\nGood\n\n\nCMMI DMM\n5 maturity levels; process-focused\nIncremental progression suits resource-constrained SMEs\nWeak on scientific data integrity\n4/5\nHigh\n\n\nFAIR Principles\nFindable, Accessible, Interoperable, Reusable data\nDirectly addresses field/science data sharing needs\nNot a full framework; no maturity levels\n4/5\nHigh",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Framework Foundations</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Framework Foundations</span>"
     ]
   },
   {
     "objectID": "02b - foundations.html#design-principles",
     "href": "02b - foundations.html#design-principles",
-    "title": "2  Framework Foundations",
-    "section": "2.2 Design Principles",
-    "text": "2.2 Design Principles\nThe STREAM is built on four core design principles:\n\nPractical Scalability: Implementation approaches that scale based on organizational size and resource availability\nIndustry Relevance: Specific focus on environmental consulting data challenges including field collection, scientific integrity, and compliance reporting\nIncremental Progression: Clear maturity pathways that enable step-by-step improvement\nAustralian Context: Alignment with Australian regulatory requirements and industry practices",
+    "title": "1  Framework Foundations",
+    "section": "1.2 Design Principles",
+    "text": "1.2 Design Principles\nThe STREAM is built on four core design principles:\n\nPractical Scalability: Implementation approaches that scale based on organizational size and resource availability\nIndustry Relevance: Specific focus on environmental consulting data challenges including field collection, scientific integrity, and compliance reporting\nIncremental Progression: Clear maturity pathways that enable step-by-step improvement\nAustralian Context: Alignment with Australian regulatory requirements and industry practices",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Framework Foundations</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Framework Foundations</span>"
     ]
   },
   {
     "objectID": "02c - structure.html",
     "href": "02c - structure.html",
-    "title": "3  STREAM Structure",
+    "title": "2  STREAM Structure",
     "section": "",
-    "text": "3.1 Core Framework Dimensions\nThe framework is organized into seven core dimensions that address the comprehensive data management needs of environmental consultancies:",
+    "text": "2.1 Core Framework Dimensions\nThe framework is organized into seven core dimensions that address the comprehensive data management needs of environmental consultancies:",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>STREAM Structure</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>STREAM Structure</span>"
     ]
   },
   {
     "objectID": "02c - structure.html#core-framework-dimensions",
     "href": "02c - structure.html#core-framework-dimensions",
-    "title": "3  STREAM Structure",
+    "title": "2  STREAM Structure",
     "section": "",
     "text": "Data Strategy & Governance\n\nStrategic alignment with business objectives\nData ownership and accountability\nPolicy development and implementation\nRegulatory compliance management\n\nField Data Collection & Quality\n\nField data collection methods and tools\nData validation and verification\nChain of custody management\nQuality assurance processes\n\nScientific Data Integrity\n\nScientific method documentation\nData lineage and provenance\nMetadata management\nFAIR principles implementation\n\nEnvironmental Compliance Reporting\n\nRegulatory reporting workflows\nAudit trail management\nCompliance verification\nStakeholder reporting\n\nData Architecture & Integration\n\nData models and structures\nSystem integration\nData exchange standards\nTechnology infrastructure\n\nProject Data Lifecycle Management\n\nProject data planning\nData handoff procedures\nArchive and retrieval processes\nCross-project data reuse\n\nData Security & Privacy\n\nAccess control management\nData classification and protection\nPrivacy compliance\nIncident response planning",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>STREAM Structure</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>STREAM Structure</span>"
     ]
   },
   {
     "objectID": "02c - structure.html#organizational-assessment-tiers",
     "href": "02c - structure.html#organizational-assessment-tiers",
-    "title": "3  STREAM Structure",
-    "section": "3.2 Organizational Assessment Tiers",
-    "text": "3.2 Organizational Assessment Tiers\nThe framework enables assessment across three organizational tiers:\n\nExecutive/Board Level: Strategic direction, resource allocation, risk management\nBusiness Unit/Work Group Level: Process standardization, quality management, cross-functional coordination\nTeam Level: Operational practices, technical skills, day-to-day data management",
+    "title": "2  STREAM Structure",
+    "section": "2.2 Organizational Assessment Tiers",
+    "text": "2.2 Organizational Assessment Tiers\nThe framework enables assessment across three organizational tiers:\n\nExecutive/Board Level: Strategic direction, resource allocation, risk management\nBusiness Unit/Work Group Level: Process standardization, quality management, cross-functional coordination\nTeam Level: Operational practices, technical skills, day-to-day data management",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>STREAM Structure</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>STREAM Structure</span>"
     ]
   },
   {
     "objectID": "02c - structure.html#framework-adaptations-by-organization-size",
     "href": "02c - structure.html#framework-adaptations-by-organization-size",
-    "title": "3  STREAM Structure",
-    "section": "3.3 Framework Adaptations by Organization Size",
-    "text": "3.3 Framework Adaptations by Organization Size\nThe framework scales through simplified implementations for different organization sizes:\n\nSmall Firms (&lt;20 employees): Focus on essential capabilities with lightweight governance\nMid-Sized Firms (20-50 employees): Standard implementation with phased approach\nLarger Firms (50-100 employees): Comprehensive implementation across all dimensions",
+    "title": "2  STREAM Structure",
+    "section": "2.3 Framework Adaptations by Organization Size",
+    "text": "2.3 Framework Adaptations by Organization Size\nThe framework scales through simplified implementations for different organization sizes:\n\nSmall Firms (&lt;20 employees): Focus on essential capabilities with lightweight governance\nMid-Sized Firms (20-50 employees): Standard implementation with phased approach\nLarger Firms (50-100 employees): Comprehensive implementation across all dimensions",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>STREAM Structure</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>STREAM Structure</span>"
     ]
   },
   {
     "objectID": "02d - methodology.html",
     "href": "02d - methodology.html",
-    "title": "4  Assessment Methodology",
+    "title": "3  Assessment Methodology",
     "section": "",
-    "text": "4.1 Executive Level Assessment\nThe executive assessment evaluates strategic data management capabilities through structured interviews with leadership:\nFormat: 10-12 targeted questions covering:\nOutput: Strategic maturity dashboard with executive recommendations\nExample Questions:",
+    "text": "3.1 Executive Level Assessment\nThe executive assessment evaluates strategic data management capabilities through structured interviews with leadership:\nFormat: 10-12 targeted questions covering:\nOutput: Strategic maturity dashboard with executive recommendations\nExample Questions:",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Assessment Methodology</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessment Methodology</span>"
     ]
   },
   {
     "objectID": "02d - methodology.html#executive-level-assessment",
     "href": "02d - methodology.html#executive-level-assessment",
-    "title": "4  Assessment Methodology",
+    "title": "3  Assessment Methodology",
     "section": "",
     "text": "Strategic alignment of data management\nResource allocation for data initiatives\nCompliance risk management\nData-driven decision making\n\n\n\n\nHow does your data strategy align with organizational business objectives?\nWhat resources are allocated to data management across the organization?\nHow do you manage compliance risks related to environmental data?\nHow are data quality issues escalated and resolved at the executive level?",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Assessment Methodology</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessment Methodology</span>"
     ]
   },
   {
     "objectID": "02d - methodology.html#business-unit-level-assessment",
     "href": "02d - methodology.html#business-unit-level-assessment",
-    "title": "4  Assessment Methodology",
-    "section": "4.2 Business Unit Level Assessment",
-    "text": "4.2 Business Unit Level Assessment\nThe Business Unit assessment evaluates tactical data management capabilities through facilitated workshops:\nFormat: 20-25 assessment criteria covering:\n\nProcess standardization\nCross-functional data workflows\nQuality management practices\nResource utilization\n\nOutput: Functional maturity heatmap with prioritized improvement opportunities\nExample Assessment Areas:\n\nStandardization of field data collection processes\nIntegration between environmental monitoring and reporting\nQuality control procedures for scientific data\nCross-project data sharing practices",
+    "title": "3  Assessment Methodology",
+    "section": "3.2 Business Unit Level Assessment",
+    "text": "3.2 Business Unit Level Assessment\nThe Business Unit assessment evaluates tactical data management capabilities through facilitated workshops:\nFormat: 20-25 assessment criteria covering:\n\nProcess standardization\nCross-functional data workflows\nQuality management practices\nResource utilization\n\nOutput: Functional maturity heatmap with prioritized improvement opportunities\nExample Assessment Areas:\n\nStandardization of field data collection processes\nIntegration between environmental monitoring and reporting\nQuality control procedures for scientific data\nCross-project data sharing practices",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Assessment Methodology</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessment Methodology</span>"
     ]
   },
   {
     "objectID": "02d - methodology.html#team-level-assessment",
     "href": "02d - methodology.html#team-level-assessment",
-    "title": "4  Assessment Methodology",
-    "section": "4.3 Team Level Assessment",
-    "text": "4.3 Team Level Assessment\nThe Team assessment evaluates operational data management practices through self-assessment:\nFormat: 30-40 detailed criteria covering:\n\nDay-to-day data practices\nTechnical skills and tools utilization\nProcedural adherence\nProblem-solving approaches\n\nOutput: Detailed capability assessment with specific action items\nExample Assessment Areas:\n\nField data collection techniques and validation\nData cleaning and preparation methods\nMetadata creation and management\nUse of quality assurance tools and techniques",
+    "title": "3  Assessment Methodology",
+    "section": "3.3 Team Level Assessment",
+    "text": "3.3 Team Level Assessment\nThe Team assessment evaluates operational data management practices through self-assessment:\nFormat: 30-40 detailed criteria covering:\n\nDay-to-day data practices\nTechnical skills and tools utilization\nProcedural adherence\nProblem-solving approaches\n\nOutput: Detailed capability assessment with specific action items\nExample Assessment Areas:\n\nField data collection techniques and validation\nData cleaning and preparation methods\nMetadata creation and management\nUse of quality assurance tools and techniques",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Assessment Methodology</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Assessment Methodology</span>"
     ]
   },
   {
     "objectID": "02e - maturity.html",
     "href": "02e - maturity.html",
-    "title": "5  Maturity Levels",
+    "title": "4  Maturity Levels",
     "section": "",
-    "text": "5.1 Level 1: Initial (Basic)\nEach dimension in the framework is assessed against five maturity levels, providing a clear progression path:\nCharacteristics:\nExample Indicator",
+    "text": "4.1 Level 1: Initial (Basic)\nEach dimension in the framework is assessed against five maturity levels, providing a clear progression path:\nCharacteristics:\nExample Indicator",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Maturity Levels</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Maturity Levels</span>"
     ]
   },
   {
     "objectID": "02e - maturity.html#level-1-initial-basic",
     "href": "02e - maturity.html#level-1-initial-basic",
-    "title": "5  Maturity Levels",
+    "title": "4  Maturity Levels",
     "section": "",
     "text": "Ad hoc, reactive data management\nLimited documentation or standardization\nInconsistent practices across projects\nMinimal governance or quality controls\n\n\n\nField Data Collection & Quality: Field data is collected using varying methods and forms with no standardized approach. Data validation happens informally, if at all. Quality issues are addressed reactively when problems arise.",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Maturity Levels</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Maturity Levels</span>"
     ]
   },
   {
     "objectID": "02e - maturity.html#level-2-developing-operational",
     "href": "02e - maturity.html#level-2-developing-operational",
-    "title": "5  Maturity Levels",
-    "section": "5.2 Level 2: Developing (Operational)",
-    "text": "5.2 Level 2: Developing (Operational)\nCharacteristics:\n\nBasic processes documented\nInconsistent implementation\nLimited governance with unclear accountability\nReactive quality management\n\nExample Indicator\n\nField Data Collection & Quality: Standard templates exist for field data collection, but usage is inconsistent. Basic validation checks are performed, but process varies by team. Quality issues are identified but tracking is limited.",
+    "title": "4  Maturity Levels",
+    "section": "4.2 Level 2: Developing (Operational)",
+    "text": "4.2 Level 2: Developing (Operational)\nCharacteristics:\n\nBasic processes documented\nInconsistent implementation\nLimited governance with unclear accountability\nReactive quality management\n\nExample Indicator\n\nField Data Collection & Quality: Standard templates exist for field data collection, but usage is inconsistent. Basic validation checks are performed, but process varies by team. Quality issues are identified but tracking is limited.",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Maturity Levels</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Maturity Levels</span>"
     ]
   },
   {
     "objectID": "02e - maturity.html#level-3-defined-structured",
     "href": "02e - maturity.html#level-3-defined-structured",
-    "title": "5  Maturity Levels",
-    "section": "5.3 Level 3: Defined (Structured)",
-    "text": "5.3 Level 3: Defined (Structured)\nCharacteristics:\n\nStandardized processes implemented organization-wide\nDefined governance structure with clear roles\nProactive quality management\nDocumented data standards\n\nExample Indicator\n\nField Data Collection & Quality: Standardized field collection methods are consistently used across the organization. Formal validation processes are in place with regular quality checks. Issues are tracked and addressed systematically.",
+    "title": "4  Maturity Levels",
+    "section": "4.3 Level 3: Defined (Structured)",
+    "text": "4.3 Level 3: Defined (Structured)\nCharacteristics:\n\nStandardized processes implemented organization-wide\nDefined governance structure with clear roles\nProactive quality management\nDocumented data standards\n\nExample Indicator\n\nField Data Collection & Quality: Standardized field collection methods are consistently used across the organization. Formal validation processes are in place with regular quality checks. Issues are tracked and addressed systematically.",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Maturity Levels</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Maturity Levels</span>"
     ]
   },
   {
     "objectID": "02e - maturity.html#level-4-managed-analytical",
     "href": "02e - maturity.html#level-4-managed-analytical",
-    "title": "5  Maturity Levels",
-    "section": "5.4 Level 4: Managed (Analytical)",
-    "text": "5.4 Level 4: Managed (Analytical)\nCharacteristics:\n\nQuantitative management of data processes\nPerformance metrics established and monitored\nContinuous improvement mechanisms\nIntegrated governance across functions\n\nExample Indicator\n\nField Data Collection & Quality: Field data collection includes automated validation and quality checks. Quality metrics are tracked and analyzed for trends. Continuous improvement processes address root causes of quality issues.",
+    "title": "4  Maturity Levels",
+    "section": "4.4 Level 4: Managed (Analytical)",
+    "text": "4.4 Level 4: Managed (Analytical)\nCharacteristics:\n\nQuantitative management of data processes\nPerformance metrics established and monitored\nContinuous improvement mechanisms\nIntegrated governance across functions\n\nExample Indicator\n\nField Data Collection & Quality: Field data collection includes automated validation and quality checks. Quality metrics are tracked and analyzed for trends. Continuous improvement processes address root causes of quality issues.",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Maturity Levels</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Maturity Levels</span>"
     ]
   },
   {
     "objectID": "02e - maturity.html#level-5-optimizing-innovative",
     "href": "02e - maturity.html#level-5-optimizing-innovative",
-    "title": "5  Maturity Levels",
-    "section": "5.5 Level 5: Optimizing (Innovative)",
-    "text": "5.5 Level 5: Optimizing (Innovative)\nCharacteristics:\n\nData-driven decision making embedded in culture\nPredictive quality management\nInnovative approaches to data utilization\nIndustry leadership in data management practices\n\nExample Indicator\n\nField Data Collection & Quality: Advanced field data collection technologies optimize quality and efficiency. Predictive analytics identify potential quality issues before they occur. The organization contributes to industry standards for environmental data collection.\n\n\n\n\nMaturity Levels Chart",
+    "title": "4  Maturity Levels",
+    "section": "4.5 Level 5: Optimizing (Innovative)",
+    "text": "4.5 Level 5: Optimizing (Innovative)\nCharacteristics:\n\nData-driven decision making embedded in culture\nPredictive quality management\nInnovative approaches to data utilization\nIndustry leadership in data management practices\n\nExample Indicator\n\nField Data Collection & Quality: Advanced field data collection technologies optimize quality and efficiency. Predictive analytics identify potential quality issues before they occur. The organization contributes to industry standards for environmental data collection.\n\n\n\n\nMaturity Levels Chart",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Maturity Levels</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Maturity Levels</span>"
     ]
   },
   {
     "objectID": "02f - roadmap.html",
     "href": "02f - roadmap.html",
-    "title": "6  Implementation Roadmap",
+    "title": "5  Implementation Roadmap",
     "section": "",
-    "text": "6.1 Pre-Assessment Phase (1 month)\nObjectives:\nKey Activities:\nResource Requirements:",
+    "text": "5.1 Pre-Assessment Phase (1 month)\nObjectives:\nKey Activities:\nResource Requirements:",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Implementation Roadmap</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Implementation Roadmap</span>"
     ]
   },
   {
     "objectID": "02f - roadmap.html#pre-assessment-phase-1-month",
     "href": "02f - roadmap.html#pre-assessment-phase-1-month",
-    "title": "6  Implementation Roadmap",
+    "title": "5  Implementation Roadmap",
     "section": "",
     "text": "Establish baseline understanding of current capabilities\nGain executive sponsorship and alignment\nIdentify key stakeholders and change agents\nDefine scope and priorities for implementation\n\n\n\nConduct simplified self-assessment\nHold executive alignment workshop\nComplete rapid gap analysis\nEstablish governance committee or champions\n\n\n\n2-5 hours per week from key stakeholders\nNo specialized technology requirements",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Implementation Roadmap</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Implementation Roadmap</span>"
     ]
   },
   {
     "objectID": "02f - roadmap.html#foundation-phase-2-3-months",
     "href": "02f - roadmap.html#foundation-phase-2-3-months",
-    "title": "6  Implementation Roadmap",
-    "section": "6.2 Foundation Phase (2-3 months)",
-    "text": "6.2 Foundation Phase (2-3 months)\nObjectives:\n\nImplement basic governance structure\nStandardize critical data processes\nAddress high-priority compliance requirements\nEstablish data quality baseline\n\nKey Activities:\n\nDevelop core data policies and standards\nImplement standardized templates for field data\nEstablish basic quality control processes\nCreate compliance documentation framework\n\nResource Requirements:\n\n10-15% of one FTE (part-time focus)\nMinimal technology investment",
+    "title": "5  Implementation Roadmap",
+    "section": "5.2 Foundation Phase (2-3 months)",
+    "text": "5.2 Foundation Phase (2-3 months)\nObjectives:\n\nImplement basic governance structure\nStandardize critical data processes\nAddress high-priority compliance requirements\nEstablish data quality baseline\n\nKey Activities:\n\nDevelop core data policies and standards\nImplement standardized templates for field data\nEstablish basic quality control processes\nCreate compliance documentation framework\n\nResource Requirements:\n\n10-15% of one FTE (part-time focus)\nMinimal technology investment",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Implementation Roadmap</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Implementation Roadmap</span>"
     ]
   },
   {
     "objectID": "02f - roadmap.html#standardization-phase-3-6-months",
     "href": "02f - roadmap.html#standardization-phase-3-6-months",
-    "title": "6  Implementation Roadmap",
-    "section": "6.3 Standardization Phase (3-6 months)",
-    "text": "6.3 Standardization Phase (3-6 months)\nObjectives:\n\nImplement organization-wide standards\nDevelop comprehensive data architecture\nEnhance quality management processes\nImprove cross-functional data workflows\n\nKey Activities:\n\nDeploy field data collection standards\nImplement project data handoff procedures\nEstablish metadata management approach\nDevelop cross-project data sharing processes\n\nResource Requirements:\n\n20-30% of one FTE\nModerate technology investment",
+    "title": "5  Implementation Roadmap",
+    "section": "5.3 Standardization Phase (3-6 months)",
+    "text": "5.3 Standardization Phase (3-6 months)\nObjectives:\n\nImplement organization-wide standards\nDevelop comprehensive data architecture\nEnhance quality management processes\nImprove cross-functional data workflows\n\nKey Activities:\n\nDeploy field data collection standards\nImplement project data handoff procedures\nEstablish metadata management approach\nDevelop cross-project data sharing processes\n\nResource Requirements:\n\n20-30% of one FTE\nModerate technology investment",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Implementation Roadmap</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Implementation Roadmap</span>"
     ]
   },
   {
     "objectID": "02f - roadmap.html#optimization-phase-6-12-months",
     "href": "02f - roadmap.html#optimization-phase-6-12-months",
-    "title": "6  Implementation Roadmap",
-    "section": "6.4 Optimization Phase (6-12 months)",
-    "text": "6.4 Optimization Phase (6-12 months)\nObjectives:\n\nImplement advanced analytics capabilities\nEstablish continuous improvement processes\nDevelop innovation initiatives\nOptimize data utilization for competitive advantage\n\nKey Activities:\n\nImplement data quality metrics and monitoring\nEstablish advanced reporting capabilities\nDevelop cross-project analytics\nImplement continuous improvement processes\n\nResource Requirements:\n\n50% of one FTE or dedicated data manager\nSignificant technology investment",
+    "title": "5  Implementation Roadmap",
+    "section": "5.4 Optimization Phase (6-12 months)",
+    "text": "5.4 Optimization Phase (6-12 months)\nObjectives:\n\nImplement advanced analytics capabilities\nEstablish continuous improvement processes\nDevelop innovation initiatives\nOptimize data utilization for competitive advantage\n\nKey Activities:\n\nImplement data quality metrics and monitoring\nEstablish advanced reporting capabilities\nDevelop cross-project analytics\nImplement continuous improvement processes\n\nResource Requirements:\n\n50% of one FTE or dedicated data manager\nSignificant technology investment",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Implementation Roadmap</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Implementation Roadmap</span>"
     ]
   },
   {
     "objectID": "02f - roadmap.html#prioritization-approach",
     "href": "02f - roadmap.html#prioritization-approach",
-    "title": "6  Implementation Roadmap",
-    "section": "6.5 Prioritization Approach",
-    "text": "6.5 Prioritization Approach\nImplementation should follow a value-based prioritization:\n\nCompliance Critical: Elements required for regulatory compliance\nOperational Impact: Elements that improve day-to-day efficiency\nStrategic Value: Elements that provide competitive advantage",
+    "title": "5  Implementation Roadmap",
+    "section": "5.5 Prioritization Approach",
+    "text": "5.5 Prioritization Approach\nImplementation should follow a value-based prioritization:\n\nCompliance Critical: Elements required for regulatory compliance\nOperational Impact: Elements that improve day-to-day efficiency\nStrategic Value: Elements that provide competitive advantage",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Implementation Roadmap</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Implementation Roadmap</span>"
     ]
   },
   {
     "objectID": "02g - decision-making.html",
     "href": "02g - decision-making.html",
-    "title": "7  Decision-Making Guide",
+    "title": "6  Decision-Making Guide",
     "section": "",
-    "text": "7.1 Implementation Decision Tree\nThe following decision tree guides organizations in tailoring the implementation approach:\nflowchart TD\n    Start([Start Assessment]) --&gt; OrgSize{Organization Size?}\n    \n    OrgSize --&gt;|&lt;50 employees| Small[Small Organization]\n    OrgSize --&gt;|20-50 employees| Medium[Medium Organization]\n    OrgSize --&gt;|&gt;50 employees| Large[Large Organization]\n    \n    Small --&gt; SmallReg{Regulatory Exposure?}\n    SmallReg --&gt;|High| SmallRegHigh[Prioritize&lt;br&gt;compliance&lt;br&gt;reporting]\n    SmallReg --&gt;|Low| SmallRegLow[Start with&lt;br&gt;field data&lt;br&gt;collection]\n    \n    Medium --&gt; MediumProjects{Current Projects?}\n    MediumProjects --&gt;|Mostly&lt;br&gt;government/&lt;br&gt;regulated| MediumGov[Focus on&lt;br&gt;compliance&lt;br&gt;and governance]\n    MediumProjects --&gt;|Mostly&lt;br&gt;commercial| MediumCom[Focus on&lt;br&gt;efficiency&lt;br&gt;and quality]\n    \n    Large --&gt; LargeStructure{Organizational Structure?}\n    LargeStructure --&gt;|Centralized| LargeCent[Organization-wide&lt;br&gt;approach]\n    LargeStructure --&gt;|Decentralized| LargeDec[Business unit&lt;br&gt;pilots first]\n    \n    SmallRegHigh --&gt; Resources{Available Resources?}\n    SmallRegLow --&gt; Resources\n    MediumGov --&gt; Resources\n    MediumCom --&gt; Resources\n    LargeCent --&gt; Resources\n    LargeDec --&gt; Resources\n    \n    Resources --&gt;|Limited| Limited[Minimal viable&lt;br&gt;implementation:&lt;br&gt;Focus on highest-impact&lt;br&gt;dimension only]\n    Resources --&gt;|Moderate| Moderate[Balanced implementation:&lt;br&gt;Implement 2-3 critical&lt;br&gt;dimensions first]\n    Resources --&gt;|Substantial| Substantial[Comprehensive&lt;br&gt;implementation:&lt;br&gt;All dimensions with&lt;br&gt;phased approach]\n    \n    Limited --&gt; End([Implementation Plan&lt;br&gt;Complete])\n    Moderate --&gt; End\n    Substantial --&gt; End",
+    "text": "6.1 Implementation Decision Tree\nThe following decision tree guides organizations in tailoring the implementation approach:\nflowchart TD\n    Start([Start Assessment]) --&gt; OrgSize{Organization Size?}\n    \n    OrgSize --&gt;|&lt;50 employees| Small[Small Organization]\n    OrgSize --&gt;|20-50 employees| Medium[Medium Organization]\n    OrgSize --&gt;|&gt;50 employees| Large[Large Organization]\n    \n    Small --&gt; SmallReg{Regulatory Exposure?}\n    SmallReg --&gt;|High| SmallRegHigh[Prioritize&lt;br&gt;compliance&lt;br&gt;reporting]\n    SmallReg --&gt;|Low| SmallRegLow[Start with&lt;br&gt;field data&lt;br&gt;collection]\n    \n    Medium --&gt; MediumProjects{Current Projects?}\n    MediumProjects --&gt;|Mostly&lt;br&gt;government/&lt;br&gt;regulated| MediumGov[Focus on&lt;br&gt;compliance&lt;br&gt;and governance]\n    MediumProjects --&gt;|Mostly&lt;br&gt;commercial| MediumCom[Focus on&lt;br&gt;efficiency&lt;br&gt;and quality]\n    \n    Large --&gt; LargeStructure{Organizational Structure?}\n    LargeStructure --&gt;|Centralized| LargeCent[Organization-wide&lt;br&gt;approach]\n    LargeStructure --&gt;|Decentralized| LargeDec[Business unit&lt;br&gt;pilots first]\n    \n    SmallRegHigh --&gt; Resources{Available Resources?}\n    SmallRegLow --&gt; Resources\n    MediumGov --&gt; Resources\n    MediumCom --&gt; Resources\n    LargeCent --&gt; Resources\n    LargeDec --&gt; Resources\n    \n    Resources --&gt;|Limited| Limited[Minimal viable&lt;br&gt;implementation:&lt;br&gt;Focus on highest-impact&lt;br&gt;dimension only]\n    Resources --&gt;|Moderate| Moderate[Balanced implementation:&lt;br&gt;Implement 2-3 critical&lt;br&gt;dimensions first]\n    Resources --&gt;|Substantial| Substantial[Comprehensive&lt;br&gt;implementation:&lt;br&gt;All dimensions with&lt;br&gt;phased approach]\n    \n    Limited --&gt; End([Implementation Plan&lt;br&gt;Complete])\n    Moderate --&gt; End\n    Substantial --&gt; End",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Decision-Making Guide</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Decision-Making Guide</span>"
     ]
   },
   {
     "objectID": "02g - decision-making.html#implementation-decision-tree",
     "href": "02g - decision-making.html#implementation-decision-tree",
-    "title": "7  Decision-Making Guide",
+    "title": "6  Decision-Making Guide",
     "section": "",
     "text": "Implementation Decision Tree",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Decision-Making Guide</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Decision-Making Guide</span>"
     ]
   },
   {
     "objectID": "02g - decision-making.html#quick-start-implementation-guides",
     "href": "02g - decision-making.html#quick-start-implementation-guides",
-    "title": "7  Decision-Making Guide",
-    "section": "7.2 Quick-Start Implementation Guides",
-    "text": "7.2 Quick-Start Implementation Guides\nTargeted guidance for organizations at different maturity levels:\nStartup Guide (0-5 years):\n\nFocus on compliance requirements and field data collection\nImplement lightweight governance structure\nEstablish basic data quality controls\nDevelop fundamental metadata standards\n\nGrowth Guide (5-15 years):\n\nStandardize processes across growing teams\nEnhance governance with clear roles and responsibilities\nImplement project data lifecycle management\nDevelop cross-project data integration\n\nEstablished Organization Guide (15+ years):\n\nAddress legacy system integration\nImplement advanced analytics capabilities\nDevelop innovation program\nOptimize data architecture",
+    "title": "6  Decision-Making Guide",
+    "section": "6.2 Quick-Start Implementation Guides",
+    "text": "6.2 Quick-Start Implementation Guides\nTargeted guidance for organizations at different maturity levels:\nStartup Guide (0-5 years):\n\nFocus on compliance requirements and field data collection\nImplement lightweight governance structure\nEstablish basic data quality controls\nDevelop fundamental metadata standards\n\nGrowth Guide (5-15 years):\n\nStandardize processes across growing teams\nEnhance governance with clear roles and responsibilities\nImplement project data lifecycle management\nDevelop cross-project data integration\n\nEstablished Organization Guide (15+ years):\n\nAddress legacy system integration\nImplement advanced analytics capabilities\nDevelop innovation program\nOptimize data architecture",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Decision-Making Guide</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Decision-Making Guide</span>"
     ]
   },
   {
     "objectID": "02h - adaptations.html",
     "href": "02h - adaptations.html",
-    "title": "8  Industry-Specific Adaptations",
+    "title": "7  Industry-Specific Adaptations",
     "section": "",
-    "text": "8.1 Field Data Collection Toolkit\nComponents:\nImplementation Guide:\nCase Example: A mid-sized environmental consultancy implemented standardized mobile data collection for soil sampling across all projects. This reduced transcription errors by 87%, accelerated data processing time by 64%, and improved compliance documentation completeness by 93%.",
+    "text": "7.1 Field Data Collection Toolkit\nComponents:\nImplementation Guide:\nCase Example: A mid-sized environmental consultancy implemented standardized mobile data collection for soil sampling across all projects. This reduced transcription errors by 87%, accelerated data processing time by 64%, and improved compliance documentation completeness by 93%.",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Industry-Specific Adaptations</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Industry-Specific Adaptations</span>"
     ]
   },
   {
     "objectID": "02h - adaptations.html#field-data-collection-toolkit",
     "href": "02h - adaptations.html#field-data-collection-toolkit",
-    "title": "8  Industry-Specific Adaptations",
+    "title": "7  Industry-Specific Adaptations",
     "section": "",
     "text": "Mobile data collection templates\nField data validation checklists\nChain of custody documentation\nSensor/IoT integration guidelines\nGPS data management protocols\n\n\n\nInventory current field data collection methods\nStandardize forms and protocols\nImplement mobile collection solutions where appropriate\nEstablish validation procedures\nTrain field staff on standardized approaches",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Industry-Specific Adaptations</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Industry-Specific Adaptations</span>"
     ]
   },
   {
     "objectID": "02h - adaptations.html#compliance-mapping-for-australian-regulations",
     "href": "02h - adaptations.html#compliance-mapping-for-australian-regulations",
-    "title": "8  Industry-Specific Adaptations",
-    "section": "8.2 Compliance Mapping for Australian Regulations",
-    "text": "8.2 Compliance Mapping for Australian Regulations\nKey Regulatory Frameworks Addressed:\n\nEnvironment Protection and Biodiversity Conservation Act 1999\nNational Greenhouse and Energy Reporting Act 2007\nState-specific Environmental Protection Acts\nEnvironmental assessment and planning regulations\nNational Environment Protection Measures\n\nImplementation Components:\n\nRegulatory requirement matrix\nCompliance documentation templates\nAudit preparation checklists\nReporting cycle calendars\n\nCase Example: A small environmental consultancy (18 staff) implemented the compliance mapping toolkit, reducing time spent on regulatory reporting by 40% while improving audit readiness. The structured approach allowed them to respond to compliance queries in hours rather than days.",
+    "title": "7  Industry-Specific Adaptations",
+    "section": "7.2 Compliance Mapping for Australian Regulations",
+    "text": "7.2 Compliance Mapping for Australian Regulations\nKey Regulatory Frameworks Addressed:\n\nEnvironment Protection and Biodiversity Conservation Act 1999\nNational Greenhouse and Energy Reporting Act 2007\nState-specific Environmental Protection Acts\nEnvironmental assessment and planning regulations\nNational Environment Protection Measures\n\nImplementation Components:\n\nRegulatory requirement matrix\nCompliance documentation templates\nAudit preparation checklists\nReporting cycle calendars\n\nCase Example: A small environmental consultancy (18 staff) implemented the compliance mapping toolkit, reducing time spent on regulatory reporting by 40% while improving audit readiness. The structured approach allowed them to respond to compliance queries in hours rather than days.",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Industry-Specific Adaptations</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Industry-Specific Adaptations</span>"
     ]
   },
   {
     "objectID": "02h - adaptations.html#scientific-data-management-framework",
     "href": "02h - adaptations.html#scientific-data-management-framework",
-    "title": "8  Industry-Specific Adaptations",
-    "section": "8.3 Scientific Data Management Framework",
-    "text": "8.3 Scientific Data Management Framework\nComponents:\n\nFAIR principles implementation guide\nMetadata standards for environmental data\nQuality assurance protocols for scientific data\nData lineage documentation templates\n\nImplementation Guide:\n\nAssess current scientific data management practices\nImplement metadata standards for key data types\nEstablish data quality verification procedures\nDevelop data sharing protocols\nTrain staff on scientific data management\n\nCase Example: An environmental research team implemented the scientific data management framework, enabling them to share monitoring data across multiple projects. This allowed detection of long-term environmental trends that would have been missed in isolated project analysis.",
+    "title": "7  Industry-Specific Adaptations",
+    "section": "7.3 Scientific Data Management Framework",
+    "text": "7.3 Scientific Data Management Framework\nComponents:\n\nFAIR principles implementation guide\nMetadata standards for environmental data\nQuality assurance protocols for scientific data\nData lineage documentation templates\n\nImplementation Guide:\n\nAssess current scientific data management practices\nImplement metadata standards for key data types\nEstablish data quality verification procedures\nDevelop data sharing protocols\nTrain staff on scientific data management\n\nCase Example: An environmental research team implemented the scientific data management framework, enabling them to share monitoring data across multiple projects. This allowed detection of long-term environmental trends that would have been missed in isolated project analysis.",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Industry-Specific Adaptations</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Industry-Specific Adaptations</span>"
     ]
   },
   {
     "objectID": "02i - metrics.html",
     "href": "02i - metrics.html",
-    "title": "9  Performance Metrics",
+    "title": "8  Performance Metrics",
     "section": "",
-    "text": "9.1 Data Quality Metrics\nKey Metrics:\nMeasurement Approach: Establish baseline measures through audit, then implement regular monitoring. Track trends over time and compare against industry benchmarks where available.",
+    "text": "8.1 Data Quality Metrics\nKey Metrics:\nMeasurement Approach: Establish baseline measures through audit, then implement regular monitoring. Track trends over time and compare against industry benchmarks where available.",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Performance Metrics</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Performance Metrics</span>"
     ]
   },
   {
     "objectID": "02i - metrics.html#data-quality-metrics",
     "href": "02i - metrics.html#data-quality-metrics",
-    "title": "9  Performance Metrics",
+    "title": "8  Performance Metrics",
     "section": "",
     "text": "Field data collection error rates\nCalibration compliance rates\nData completeness by project type\nMetadata compliance percentage\nData validation success rate",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Performance Metrics</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Performance Metrics</span>"
     ]
   },
   {
     "objectID": "02i - metrics.html#operational-metrics",
     "href": "02i - metrics.html#operational-metrics",
-    "title": "9  Performance Metrics",
-    "section": "9.2 Operational Metrics",
-    "text": "9.2 Operational Metrics\nKey Metrics:\n\nTime from collection to reporting\nData retrieval time for historical projects\nCross-project data reuse rates\nStaff time spent on data processing\nData integration effectiveness\n\nMeasurement Approach: Implement time tracking for key data workflows. Measure before and after implementation of framework elements to demonstrate value.",
+    "title": "8  Performance Metrics",
+    "section": "8.2 Operational Metrics",
+    "text": "8.2 Operational Metrics\nKey Metrics:\n\nTime from collection to reporting\nData retrieval time for historical projects\nCross-project data reuse rates\nStaff time spent on data processing\nData integration effectiveness\n\nMeasurement Approach: Implement time tracking for key data workflows. Measure before and after implementation of framework elements to demonstrate value.",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Performance Metrics</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Performance Metrics</span>"
     ]
   },
   {
     "objectID": "02i - metrics.html#compliance-metrics",
     "href": "02i - metrics.html#compliance-metrics",
-    "title": "9  Performance Metrics",
-    "section": "9.3 Compliance Metrics",
-    "text": "9.3 Compliance Metrics\nKey Metrics:\n\nRegulatory submission acceptance rates\nAudit finding frequency\nCompliance reporting cycle time\nData-related non-conformance incidents\nTime to respond to regulatory queries\n\nMeasurement Approach: Track regulatory interactions and outcomes systematically. Implement root cause analysis for any compliance issues.",
+    "title": "8  Performance Metrics",
+    "section": "8.3 Compliance Metrics",
+    "text": "8.3 Compliance Metrics\nKey Metrics:\n\nRegulatory submission acceptance rates\nAudit finding frequency\nCompliance reporting cycle time\nData-related non-conformance incidents\nTime to respond to regulatory queries\n\nMeasurement Approach: Track regulatory interactions and outcomes systematically. Implement root cause analysis for any compliance issues.",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Performance Metrics</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Performance Metrics</span>"
     ]
   },
   {
     "objectID": "02i - metrics.html#strategic-metrics",
     "href": "02i - metrics.html#strategic-metrics",
-    "title": "9  Performance Metrics",
-    "section": "9.4 Strategic Metrics",
-    "text": "9.4 Strategic Metrics\nKey Metrics:\n\nData reuse value across projects\nClient satisfaction with data deliverables\nInnovation initiatives leveraging environmental data\nCompetitive advantage from data capabilities\nData-driven insights leading to business opportunities\n\nMeasurement Approach: Implement periodic reviews of data utilization and value creation. Survey clients on data quality and usefulness.",
+    "title": "8  Performance Metrics",
+    "section": "8.4 Strategic Metrics",
+    "text": "8.4 Strategic Metrics\nKey Metrics:\n\nData reuse value across projects\nClient satisfaction with data deliverables\nInnovation initiatives leveraging environmental data\nCompetitive advantage from data capabilities\nData-driven insights leading to business opportunities\n\nMeasurement Approach: Implement periodic reviews of data utilization and value creation. Survey clients on data quality and usefulness.",
     "crumbs": [
       "Framework Report",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Performance Metrics</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Performance Metrics</span>"
     ]
   },
   {
-    "objectID": "app 00 cover.html",
-    "href": "app 00 cover.html",
+    "objectID": "app 0 cover.html",
+    "href": "app 0 cover.html",
     "title": "Appendices",
     "section": "",
     "text": "Appendix A: Assessment Questionnaires",
@@ -588,8 +588,8 @@
     ]
   },
   {
-    "objectID": "app 00 cover.html#appendix-a-assessment-questionnaires",
-    "href": "app 00 cover.html#appendix-a-assessment-questionnaires",
+    "objectID": "app 0 cover.html#appendix-a-assessment-questionnaires",
+    "href": "app 0 cover.html#appendix-a-assessment-questionnaires",
     "title": "Appendices",
     "section": "",
     "text": "Executive Assessment Questionnaire\nBusiness Unit Assessment Worksheet\nTeam Self-Assessment Tool",
@@ -598,8 +598,8 @@
     ]
   },
   {
-    "objectID": "app 00 cover.html#appendix-b-implementation-templates",
-    "href": "app 00 cover.html#appendix-b-implementation-templates",
+    "objectID": "app 0 cover.html#appendix-b-implementation-templates",
+    "href": "app 0 cover.html#appendix-b-implementation-templates",
     "title": "Appendices",
     "section": "Appendix B: Implementation Templates",
     "text": "Appendix B: Implementation Templates\n\nData Governance Charter Template\nData Policy Framework\nField Data Collection Standards\nProject Data Handoff Procedure",
@@ -608,8 +608,8 @@
     ]
   },
   {
-    "objectID": "app 00 cover.html#appendix-c-australian-environmental-regulatory-reference",
-    "href": "app 00 cover.html#appendix-c-australian-environmental-regulatory-reference",
+    "objectID": "app 0 cover.html#appendix-c-australian-environmental-regulatory-reference",
+    "href": "app 0 cover.html#appendix-c-australian-environmental-regulatory-reference",
     "title": "Appendices",
     "section": "Appendix C: Australian Environmental Regulatory Reference",
     "text": "Appendix C: Australian Environmental Regulatory Reference\n\nFederal Environmental Legislation Overview\nState-Specific Requirements Summary\nCommon Compliance Reporting Requirements",
@@ -618,8 +618,8 @@
     ]
   },
   {
-    "objectID": "app 00 cover.html#appendix-d-case-studies",
-    "href": "app 00 cover.html#appendix-d-case-studies",
+    "objectID": "app 0 cover.html#appendix-d-case-studies",
+    "href": "app 0 cover.html#appendix-d-case-studies",
     "title": "Appendices",
     "section": "Appendix D: Case Studies",
     "text": "Appendix D: Case Studies\n\nSmall Firm Implementation (18 employees)\nMid-Sized Firm Implementation (35 employees)\nMature Firm Implementation (80 employees)",
@@ -861,133 +861,133 @@
   {
     "objectID": "app E field-data-template.html",
     "href": "app E field-data-template.html",
-    "title": "10  Field Data Collection Template for Environmental Sampling",
+    "title": "9  Field Data Collection Template for Environmental Sampling",
     "section": "",
-    "text": "10.1 Project Information\nProject ID: [Project ID]\nProject Name: [Project Name]\nClient: [Client Name]\nDate: [DD/MM/YYYY]\nField Staff: [Names]\nWeather Conditions: [Temperature, Precipitation, Wind]",
+    "text": "9.1 Project Information\nProject ID: [Project ID]\nProject Name: [Project Name]\nClient: [Client Name]\nDate: [DD/MM/YYYY]\nField Staff: [Names]\nWeather Conditions: [Temperature, Precipitation, Wind]",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
     ]
   },
   {
     "objectID": "app E field-data-template.html#location-information",
     "href": "app E field-data-template.html#location-information",
-    "title": "10  Field Data Collection Template for Environmental Sampling",
-    "section": "10.2 Location Information",
-    "text": "10.2 Location Information\nSite Name: [Site Name]\nSite Address/Location: [Site Address/GPS Coordinates]\nSample Location ID: [Sample Location ID]\nCoordinates: [Latitude, Longitude] Datum: [Datum, e.g., GDA2020]\nCoordinate Collection Method: [GPS Device, Survey, GIS]\nCoordinate Accuracy (±m): [Accuracy]",
+    "title": "9  Field Data Collection Template for Environmental Sampling",
+    "section": "9.2 Location Information",
+    "text": "9.2 Location Information\nSite Name: [Site Name]\nSite Address/Location: [Site Address/GPS Coordinates]\nSample Location ID: [Sample Location ID]\nCoordinates: [Latitude, Longitude] Datum: [Datum, e.g., GDA2020]\nCoordinate Collection Method: [GPS Device, Survey, GIS]\nCoordinate Accuracy (±m): [Accuracy]",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
     ]
   },
   {
     "objectID": "app E field-data-template.html#sample-collection",
     "href": "app E field-data-template.html#sample-collection",
-    "title": "10  Field Data Collection Template for Environmental Sampling",
-    "section": "10.3 Sample Collection",
-    "text": "10.3 Sample Collection\nSample ID: [Sample ID]\nSample Type: - [ ] Soil - [ ] Groundwater - [ ] Surface Water - [ ] Sediment - [ ] Air - [ ] Biota - [ ] Other: _________________\nSample Collection Date/Time: [DD/MM/YYYY] [HH:MM]\nSample Depth (if applicable): [Depth] [Units]\nSample Collection Method: [Method/Equipment Used]\nSample Container Type(s): - [ ] Glass Jar - [ ] Plastic Container - [ ] Sterilized Container - [ ] Sample Bag - [ ] Other: _________________\nSample Preservation Method: - [ ] None - [ ] Cooling (4°C) - [ ] Chemical Preservative: [Type] - [ ] Other: _________________\nQuality Control Sample(s): - [ ] Duplicate - [ ] Trip Blank - [ ] Field Blank - [ ] Equipment Blank - [ ] Other: _________________\nQC Sample ID(s): [QC Sample IDs]",
+    "title": "9  Field Data Collection Template for Environmental Sampling",
+    "section": "9.3 Sample Collection",
+    "text": "9.3 Sample Collection\nSample ID: [Sample ID]\nSample Type: - [ ] Soil - [ ] Groundwater - [ ] Surface Water - [ ] Sediment - [ ] Air - [ ] Biota - [ ] Other: _________________\nSample Collection Date/Time: [DD/MM/YYYY] [HH:MM]\nSample Depth (if applicable): [Depth] [Units]\nSample Collection Method: [Method/Equipment Used]\nSample Container Type(s): - [ ] Glass Jar - [ ] Plastic Container - [ ] Sterilized Container - [ ] Sample Bag - [ ] Other: _________________\nSample Preservation Method: - [ ] None - [ ] Cooling (4°C) - [ ] Chemical Preservative: [Type] - [ ] Other: _________________\nQuality Control Sample(s): - [ ] Duplicate - [ ] Trip Blank - [ ] Field Blank - [ ] Equipment Blank - [ ] Other: _________________\nQC Sample ID(s): [QC Sample IDs]",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
     ]
   },
   {
     "objectID": "app E field-data-template.html#field-measurements",
     "href": "app E field-data-template.html#field-measurements",
-    "title": "10  Field Data Collection Template for Environmental Sampling",
-    "section": "10.4 Field Measurements",
-    "text": "10.4 Field Measurements\n\n10.4.1 Water Parameters (if applicable)\npH: [Value] Units: [Units] Instrument: [Instrument ID]\nTemperature: [Value] Units: [Units] Instrument: [Instrument ID]\nElectrical Conductivity: [Value] Units: [Units] Instrument: [Instrument ID]\nDissolved Oxygen: [Value] Units: [Units] Instrument: [Instrument ID]\nTurbidity: [Value] Units: [Units] Instrument: [Instrument ID]\nORP/Eh: [Value] Units: [Units] Instrument: [Instrument ID]\n\n\n10.4.2 Soil Parameters (if applicable)\nSoil Texture: [Description]\nSoil Color: [Description/Munsell Color]\nMoisture Content (estimated): [Description]\nPID Reading: [Value] Units: [Units] Instrument: [Instrument ID]\n\n\n10.4.3 Air Parameters (if applicable)\nWind Speed: [Value] Units: [Units] Instrument: [Instrument ID]\nWind Direction: [Direction] Instrument: [Instrument ID]\nAir Temperature: [Value] Units: [Units] Instrument: [Instrument ID]\nBarometric Pressure: [Value] Units: [Units] Instrument: [Instrument ID]",
+    "title": "9  Field Data Collection Template for Environmental Sampling",
+    "section": "9.4 Field Measurements",
+    "text": "9.4 Field Measurements\n\n9.4.1 Water Parameters (if applicable)\npH: [Value] Units: [Units] Instrument: [Instrument ID]\nTemperature: [Value] Units: [Units] Instrument: [Instrument ID]\nElectrical Conductivity: [Value] Units: [Units] Instrument: [Instrument ID]\nDissolved Oxygen: [Value] Units: [Units] Instrument: [Instrument ID]\nTurbidity: [Value] Units: [Units] Instrument: [Instrument ID]\nORP/Eh: [Value] Units: [Units] Instrument: [Instrument ID]\n\n\n9.4.2 Soil Parameters (if applicable)\nSoil Texture: [Description]\nSoil Color: [Description/Munsell Color]\nMoisture Content (estimated): [Description]\nPID Reading: [Value] Units: [Units] Instrument: [Instrument ID]\n\n\n9.4.3 Air Parameters (if applicable)\nWind Speed: [Value] Units: [Units] Instrument: [Instrument ID]\nWind Direction: [Direction] Instrument: [Instrument ID]\nAir Temperature: [Value] Units: [Units] Instrument: [Instrument ID]\nBarometric Pressure: [Value] Units: [Units] Instrument: [Instrument ID]",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
     ]
   },
   {
     "objectID": "app E field-data-template.html#equipment-calibration",
     "href": "app E field-data-template.html#equipment-calibration",
-    "title": "10  Field Data Collection Template for Environmental Sampling",
-    "section": "10.5 Equipment Calibration",
-    "text": "10.5 Equipment Calibration\nInstrument Type: [Instrument Type]\nInstrument ID/Serial Number: [ID/SN]\nCalibration Date/Time: [DD/MM/YYYY] [HH:MM]\nCalibration Standard(s): [Standards Used]\nCalibration Results: [Results]\nCalibrated By: [Name]",
+    "title": "9  Field Data Collection Template for Environmental Sampling",
+    "section": "9.5 Equipment Calibration",
+    "text": "9.5 Equipment Calibration\nInstrument Type: [Instrument Type]\nInstrument ID/Serial Number: [ID/SN]\nCalibration Date/Time: [DD/MM/YYYY] [HH:MM]\nCalibration Standard(s): [Standards Used]\nCalibration Results: [Results]\nCalibrated By: [Name]",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
     ]
   },
   {
     "objectID": "app E field-data-template.html#field-observations",
     "href": "app E field-data-template.html#field-observations",
-    "title": "10  Field Data Collection Template for Environmental Sampling",
-    "section": "10.6 Field Observations",
-    "text": "10.6 Field Observations\nSite Conditions: [Description]\nPotential Contamination Sources: [Description]\nVisible/Olfactory Evidence: [Description]\nVegetation Condition: [Description]\nDisturbances/Activities: [Description]\nAdditional Observations: [Description]",
+    "title": "9  Field Data Collection Template for Environmental Sampling",
+    "section": "9.6 Field Observations",
+    "text": "9.6 Field Observations\nSite Conditions: [Description]\nPotential Contamination Sources: [Description]\nVisible/Olfactory Evidence: [Description]\nVegetation Condition: [Description]\nDisturbances/Activities: [Description]\nAdditional Observations: [Description]",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
     ]
   },
   {
     "objectID": "app E field-data-template.html#photographic-documentation",
     "href": "app E field-data-template.html#photographic-documentation",
-    "title": "10  Field Data Collection Template for Environmental Sampling",
-    "section": "10.7 Photographic Documentation",
-    "text": "10.7 Photographic Documentation\nPhoto ID: [Photo ID]\nTime: [HH:MM]\nDirection: [N/S/E/W]\nDescription: [Description]\nPhoto ID: [Photo ID]\nTime: [HH:MM]\nDirection: [N/S/E/W]\nDescription: [Description]",
+    "title": "9  Field Data Collection Template for Environmental Sampling",
+    "section": "9.7 Photographic Documentation",
+    "text": "9.7 Photographic Documentation\nPhoto ID: [Photo ID]\nTime: [HH:MM]\nDirection: [N/S/E/W]\nDescription: [Description]\nPhoto ID: [Photo ID]\nTime: [HH:MM]\nDirection: [N/S/E/W]\nDescription: [Description]",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
     ]
   },
   {
     "objectID": "app E field-data-template.html#sample-analysis-requirements",
     "href": "app E field-data-template.html#sample-analysis-requirements",
-    "title": "10  Field Data Collection Template for Environmental Sampling",
-    "section": "10.8 Sample Analysis Requirements",
-    "text": "10.8 Sample Analysis Requirements\nLaboratory: [Laboratory Name]\nAnalytical Suite(s): - [ ] Metals - [ ] TPH/BTEX - [ ] PAHs - [ ] PCBs - [ ] Pesticides - [ ] Nutrients - [ ] Microbiological - [ ] Other: _________________\nSpecial Instructions: [Special Instructions]\nTurnaround Time: [Standard/Rush]",
+    "title": "9  Field Data Collection Template for Environmental Sampling",
+    "section": "9.8 Sample Analysis Requirements",
+    "text": "9.8 Sample Analysis Requirements\nLaboratory: [Laboratory Name]\nAnalytical Suite(s): - [ ] Metals - [ ] TPH/BTEX - [ ] PAHs - [ ] PCBs - [ ] Pesticides - [ ] Nutrients - [ ] Microbiological - [ ] Other: _________________\nSpecial Instructions: [Special Instructions]\nTurnaround Time: [Standard/Rush]",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
     ]
   },
   {
     "objectID": "app E field-data-template.html#chain-of-custody",
     "href": "app E field-data-template.html#chain-of-custody",
-    "title": "10  Field Data Collection Template for Environmental Sampling",
-    "section": "10.9 Chain of Custody",
-    "text": "10.9 Chain of Custody\nSampler Signature: _______________________________\nDate/Time: [DD/MM/YYYY] [HH:MM]\nRelinquished By: _______________________________\nDate/Time: [DD/MM/YYYY] [HH:MM]\nReceived By: _______________________________\nDate/Time: [DD/MM/YYYY] [HH:MM]\nTransport Method: [Method]\nTransport Conditions: [Conditions]",
+    "title": "9  Field Data Collection Template for Environmental Sampling",
+    "section": "9.9 Chain of Custody",
+    "text": "9.9 Chain of Custody\nSampler Signature: _______________________________\nDate/Time: [DD/MM/YYYY] [HH:MM]\nRelinquished By: _______________________________\nDate/Time: [DD/MM/YYYY] [HH:MM]\nReceived By: _______________________________\nDate/Time: [DD/MM/YYYY] [HH:MM]\nTransport Method: [Method]\nTransport Conditions: [Conditions]",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
     ]
   },
   {
     "objectID": "app E field-data-template.html#quality-assurance-checklist",
     "href": "app E field-data-template.html#quality-assurance-checklist",
-    "title": "10  Field Data Collection Template for Environmental Sampling",
-    "section": "10.10 Quality Assurance Checklist",
-    "text": "10.10 Quality Assurance Checklist\n\nSample containers appropriate for analyses\nSample preservation correct\nSample labels complete and legible\nChain of custody form complete\nField equipment calibrated and functioning\nQC samples collected as required\nSample locations accurately recorded\nField observations documented\nPhotographic documentation complete\nDecontamination procedures followed",
+    "title": "9  Field Data Collection Template for Environmental Sampling",
+    "section": "9.10 Quality Assurance Checklist",
+    "text": "9.10 Quality Assurance Checklist\n\nSample containers appropriate for analyses\nSample preservation correct\nSample labels complete and legible\nChain of custody form complete\nField equipment calibrated and functioning\nQC samples collected as required\nSample locations accurately recorded\nField observations documented\nPhotographic documentation complete\nDecontamination procedures followed",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
     ]
   },
   {
     "objectID": "app E field-data-template.html#data-quality-validation-office-use",
     "href": "app E field-data-template.html#data-quality-validation-office-use",
-    "title": "10  Field Data Collection Template for Environmental Sampling",
-    "section": "10.11 Data Quality Validation (Office Use)",
-    "text": "10.11 Data Quality Validation (Office Use)\nReviewer: [Name]\nReview Date: [DD/MM/YYYY]\nData Completeness Check: [Pass/Fail]\nData Consistency Check: [Pass/Fail]\nData Quality Issues Identified: [Issues]\nCorrective Actions Required: [Actions]",
+    "title": "9  Field Data Collection Template for Environmental Sampling",
+    "section": "9.11 Data Quality Validation (Office Use)",
+    "text": "9.11 Data Quality Validation (Office Use)\nReviewer: [Name]\nReview Date: [DD/MM/YYYY]\nData Completeness Check: [Pass/Fail]\nData Consistency Check: [Pass/Fail]\nData Quality Issues Identified: [Issues]\nCorrective Actions Required: [Actions]",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
     ]
   },
   {
     "objectID": "app E field-data-template.html#field-data-metadata",
     "href": "app E field-data-template.html#field-data-metadata",
-    "title": "10  Field Data Collection Template for Environmental Sampling",
-    "section": "10.12 Field Data Metadata",
-    "text": "10.12 Field Data Metadata\nData Collector: [Name]\nData Entry Date: [DD/MM/YYYY]\nData Template Version: [Version]\nAssociated Datasets: [Dataset References]\nData Verification Method: [Method]\nData Use Restrictions: [Restrictions]\n\n\n10.12.1 Notes for Field Staff:\n\nComplete all applicable fields in this template\nTake photos of each sampling location and any significant features\nRecord all field observations even if they seem insignificant\nCalibrate all field instruments before use and document calibration\nContact project manager immediately if any issues arise in the field\nSubmit completed template to data manager within 24 hours of fieldwork completion",
+    "title": "9  Field Data Collection Template for Environmental Sampling",
+    "section": "9.12 Field Data Metadata",
+    "text": "9.12 Field Data Metadata\nData Collector: [Name]\nData Entry Date: [DD/MM/YYYY]\nData Template Version: [Version]\nAssociated Datasets: [Dataset References]\nData Verification Method: [Method]\nData Use Restrictions: [Restrictions]\n\n\n9.12.1 Notes for Field Staff:\n\nComplete all applicable fields in this template\nTake photos of each sampling location and any significant features\nRecord all field observations even if they seem insignificant\nCalibrate all field instruments before use and document calibration\nContact project manager immediately if any issues arise in the field\nSubmit completed template to data manager within 24 hours of fieldwork completion",
     "crumbs": [
       "Appendices",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Field Data Collection Template for Environmental Sampling</span>"
     ]
   }
 ]

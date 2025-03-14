@@ -9,7 +9,7 @@ book:
   date: "13/03/2025"
   chapters:
     - index.qmd
-    - 01 executive-summary.md
+    - 01 executive-summary.qmd
     - part: "Framework Report"
       chapters: 
       - 02a - introduction.qmd
@@ -21,7 +21,7 @@ book:
       - 02g - decision-making.qmd
       - 02h - adaptations.qmd
       - 02i - metrics.qmd
-    - part: app 00 cover.qmd
+    - part: app 0 cover.qmd
       chapters: 
       - app A assessment-questionnaires.qmd
       - app B implementation-templates.md

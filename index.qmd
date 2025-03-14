@@ -43,19 +43,17 @@ The STREAM was developed through analysis of established data maturity framework
 
 This webbook contains the complete AECDMF framework, implementation guidance, and supporting materials. Navigate through the following sections to explore the framework:
 
-1. [Executive Summary](executive-summary.md)
-2. [Framework Report](framework-report.md)
-3. [Assessment Questionnaires](assessment-questionnaires.md)
-4. [Implementation Templates](implementation-templates.md)
-5. [Regulatory Reference Guide](regulatory-reference.md)
-6. [Case Studies](case-studies.md)
-8. [Implementation Decision Tree](decision-tree.md)
-9. [Implementation Timeline](implementation-timeline.md)
-10. [Field Data Collection Template](field-data-template.md)
+1. [Executive Summary](01 executive-summary.qmd)
+2. [Framework Report](02a - introduction.qmd)
+3. [Assessment Questionnaires](app A assessment-questionnaires.qmd)
+4. [Implementation Templates](app B implementation-templates.md)
+5. [Regulatory Reference Guide](app C regulatory-reference.md)
+6. [Case Studies](app D case-studies.md)
+7. [Field Data Collection Template](app E field-data-template.md)
 
 ## Getting Started
 
-We recommend beginning with the [Executive Summary](executive-summary.md) to understand the AECDMF approach and benefits. Then proceed to the [Framework Report](framework-report.md) for a comprehensive overview of the framework structure and methodology. The [Assessment Questionnaires](assessment-questionnaires.md) will help you conduct your initial maturity evaluation.
+We recommend beginning with the [Executive Summary](01 executive-summary.qmd) to understand the AECDMF approach and benefits. Then proceed to the [Framework Report](02a - introduction.qmd) for a comprehensive overview of the framework structure and methodology. The [Assessment Questionnaires](app A assessment-questionnaires.qmd) will help you conduct your initial maturity evaluation.
 
 For organizations looking to quickly implement improvements:
 
@@ -76,7 +74,7 @@ The development of this framework was informed by established data maturity mode
 
 For questions, feedback, or ideas, please submit an issue:
 
-Website: https://github.com/andbarker/STREAM/issues 
+[](https://github.com/andbarker/STREAM/issues){target="_blank"}
 
 ---
 
